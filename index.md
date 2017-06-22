@@ -3,6 +3,9 @@
 
 ## 各种测试
 ### 测试是否支持公式编辑
+行内公式
+$\omega$
+单行公式
 $$
 \begin{align}
 h_{\theta}(x)=\theta^Tx
